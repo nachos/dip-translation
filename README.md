@@ -1,2 +1,2 @@
-# dip-translation
+# translation-dip
 Translation dip
